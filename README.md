@@ -1,3 +1,3 @@
 # apnacoolege.demo
 this is my first Repository.
-Athor-Sambhaji Raut
+Author-Sambhaji Raut
